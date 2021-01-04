@@ -12,8 +12,8 @@ int main()
 {   
     int a = 0;
        
-    std::cout << "Please make sure the background data\n";
-    std::cout << "and the signal has same delta_t.\n";
+    std::cout << "***Please make sure the background data***\n";
+    std::cout << "***and the signal has same delta_t***\n";
     std::cout << "Now loading the Raw-Background-Data\n";
     
     FittedBackgroundModel fittedModelOfBkgrndData;
